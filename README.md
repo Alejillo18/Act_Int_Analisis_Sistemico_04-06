@@ -1,7 +1,10 @@
 🧮 Calculadora en Python
 Trabajo práctico para la materia Introducción al Análisis Sistémico
+
 Universidad: Universidad Provincial De Córdoba
+
 Profesor/a: Narciso Perez
+
 Integrantes:
 
 Oviedo Alejo
