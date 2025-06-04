@@ -36,6 +36,8 @@ Instalación
 Clonar este repositorio:
 
 git clone https://github.com/Alejillo18/Act_Int_Analisis_Sistemico_04-06.git
+
+
 Ingresar a la carpeta del proyecto:
 
 cd Act_Int_Analisis_Sistemico_04-06
