@@ -35,11 +35,10 @@ Editor recomendado: Visual Studio Code, PyCharm o cualquier editor de texto
 Instalación
 Clonar este repositorio:
 
-git clone https://github.com/usuario/repositorio-calculadora.git
+git clone https://github.com/Alejillo18/Act_Int_Analisis_Sistemico_04-06.git
 Ingresar a la carpeta del proyecto:
 
-
-cd repositorio-calculadora
+cd Act_Int_Analisis_Sistemico_04-06
 Ejecutar el programa:
 
 python calculadora.py
